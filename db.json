@@ -1,0 +1,34 @@
+{
+    "dragons": [
+        {
+            "id": 1,
+            "name": "Vhagar",
+            "image": "https://imgix.bustle.com/uploads/image/2022/10/25/46df8d06-9ff6-480c-804d-0d2a7c8bf62b-l-intro-1664818670.jpeg?w=710&h=398&fit=max&auto=format%2Ccompress&q=50&dpr=2",
+            "rider": "Aemond Targaryen"
+        },
+        {
+            "id": 2,
+            "name": "Drogon",
+            "image": "https://d.newsweek.com/en/full/648050/drogon-spoils-war.jpg",
+            "rider": "Daenerys Targaryen"
+        },
+        {
+            "id": 3,
+            "name": "Caraxes",
+            "image": "https://imgix.bustle.com/uploads/image/2022/10/25/1a5b8d3f-c3e8-47ca-bbb5-fd3d80630d28-494093865782.jpeg?w=710&h=399&fit=max&auto=format%2Ccompress&q=50&dpr=2",
+            "rider": "Daemon Targaryen"
+        },
+        {
+            "id": 4,
+            "name": "Meleys",
+            "image": "https://imgix.bustle.com/uploads/image/2022/10/25/98f18594-a9b9-49f9-967b-4602f4c44834-950050389730.jpeg?w=710&h=399&fit=max&auto=format%2Ccompress&q=50&dpr=2",
+            "rider": "Rhaenys Targaryen"
+        },
+        {
+            "id": 5,
+            "name": "Syrax",
+            "image": "https://imgix.bustle.com/uploads/image/2022/10/25/c38855f8-b28a-4ed0-b565-126d87724c25-1200px-syrax-copy.jpg?w=710&h=487&fit=max&auto=format%2Ccompress&q=50&dpr=2",
+            "rider": "Rhaenyra Targaryen"
+        }
+    ]
+}

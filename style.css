@@ -1,0 +1,33 @@
+img {
+    /* max-width: 1000px */
+    /* border-radius: 20px; */
+    margin: 0 auto;
+    width: 500px;
+    height: 400px;
+
+}
+body {
+    background-color: beige;
+}
+p {
+    border: 2px solid powderblue;
+    padding: 30px
+}
+
+.dragon-animation {
+    height: auto;
+    width: 110%;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
